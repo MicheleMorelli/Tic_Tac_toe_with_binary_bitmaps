@@ -1,4 +1,4 @@
-# Tic_Tac_toe_with_bitmapped graphics (Windows only)
+# Tic_Tac_toe_with_bitmapped_graphics (Windows only)
 Tic Tac Toe game in C for the Windows console, featuring:
 
 - Simple , partially randomised AI;
